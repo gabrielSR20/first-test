@@ -1,1 +1,1 @@
-# primeiro teste com repositorio githu:
+# Primeiro teste com repositorio github
